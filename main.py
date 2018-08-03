@@ -1,7 +1,6 @@
-# test_003.py
+# main.py
 #
-# Testskript, in dem die "fitness" verschiedener gensequenzen bezueglich einer definierten Kurve
-# berechnet wird.
+# Hauptskript, in welchem der genetische Algorithmus realisiert wird.
 #
 # Patrick Kraus-Fuereder
 # 02.08.2018
